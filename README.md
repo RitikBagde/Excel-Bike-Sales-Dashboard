@@ -148,16 +148,3 @@ Excel-Bike-Sales-Dashboard/
 └── README.md
 ```
 
----
-
-## Author
-
-**Ritik Bagde**
-
-B.Tech – Artificial Intelligence
-
-Skills: Excel | SQL | Python | Data Analytics | Power BI | Machine Learning
-
----
-
-⭐ If you find this project useful, feel free to explore the repository and connect with me.
