@@ -118,13 +118,25 @@ Through this project, I practiced:
 
 ---
 
-## Dashboard Preview
+## 📸 Dashboard Preview
 
-Add a screenshot of the completed dashboard here.
+### Dashboard Overview
 
-```text
-Dashboard Preview
-```
+The dashboard provides an interactive view of bike purchasing behavior using Excel Pivot Tables, Pivot Charts, and slicers.
+
+### Filtered Dashboard Views
+
+#### 1. Dashboard – Filtered View
+<img src="Dashboard%20Preview%201.png" width="700">
+
+#### 2. Dashboard – Filtered View
+<img src="Dashboard%20Preview%202.png" width="700">
+
+#### 3. Dashboard – Filtered View
+<img src="Dashboard%20Preview%203.png" width="700">
+
+#### 4. Dashboard – Filtered View
+<img src="Dashboard%20Preview%204.png" width="700">
 
 ---
 
